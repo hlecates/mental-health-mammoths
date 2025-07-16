@@ -1,6 +1,6 @@
 # Mental Health Mammoths: Anxiety and Pregnancy During COVID-19
 
-This repository contains the R Markdown file `GroupF-Report.Rmd`, which generates the full report **Mental Health Mammoths: Examining Anxiety and Pregnancy During COVID-19**. It includes data cleaning, exploratory data analysis, model fitting, and diagnostic plots.
+This repository contains the R Markdown file `mental-health-mammoths.rmd`, which generates the full report **Mental Health Mammoths: Examining Anxiety and Pregnancy During COVID-19**. It includes data cleaning, exploratory data analysis, model fitting, and diagnostic plots.
 
 ## Files
 
@@ -20,7 +20,7 @@ This repository contains the R Markdown file `GroupF-Report.Rmd`, which generate
    ```bash
    git clone https://github.com/yourusername/mental-health-mammoths.git
    ```
-2. Open and knit `mental-health-mammoths` in RStudio, or run:
+2. Open and knit `mental-health-mammoths.rmd` in RStudio, or run:
 
 ## More Information
 
